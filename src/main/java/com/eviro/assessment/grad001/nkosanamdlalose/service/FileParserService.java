@@ -1,4 +1,4 @@
-package com.example.envirodemo.service;
+package com.eviro.assessment.grad001.nkosanamdlalose.service;
 
 import java.io.File;
 import java.net.URL;
